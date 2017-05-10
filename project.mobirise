@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-05-09_1048",
+    "name": "Coleccionistas Manchegos",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -205,7 +205,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-127x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
