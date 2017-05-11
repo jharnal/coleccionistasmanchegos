@@ -241,7 +241,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Coleccionistas Manchegos / <a href=\"http://www.jharnal.com\" target=\"_blank\">jharnal</a>."
+          "text": "Copyright (c) 2017 Coleccionistas Manchegos / <a href=\"http://www.jharnal.com\" target=\"_blank\">jharnal</a>&nbsp;/ <a href=\"http://www.mobirise.com\" target=\"_blank\">Mobirise</a>"
         },
         {
           "alias": "purity/components",
